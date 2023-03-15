@@ -1,7 +1,9 @@
 # Awesome zero knowledge proofs (zkp)
 
  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-> A curated list of awesome things related to learning zero knowledge proofs (f14b68f93d9c0daedf988b5ebd4837abb1013589)
+> A curated list of awesome things related to learning zero knowledge proofs
+
+[f14b68f93d9c0daedf988b5ebd4837abb1013589](https://github.com/matter-labs/awesome-zero-knowledge-proofs/blob/b5295c0eee2f498ac68b58871d32d906db1ad5af/README.md)
 
 ## Contents
 
