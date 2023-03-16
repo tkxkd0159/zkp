@@ -5,6 +5,8 @@
 
 [f14b68f93d9c0daedf988b5ebd4837abb1013589](https://github.com/matter-labs/awesome-zero-knowledge-proofs/blob/b5295c0eee2f498ac68b58871d32d906db1ad5af/README.md)
 
+[Another awesome-zkp](https://github.com/ventali/awesome-zk)
+
 ## Contents
 
 - [Awesome zero knowledge proofs (zkp)](#awesome-zero-knowledge-proofs-zkp)
