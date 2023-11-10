@@ -1,3 +1,12 @@
+- [ZKP pilot project](#zkp-pilot-project)
+  - [Logic Flow](#logic-flow)
+    - [1. Define the problem statement and circuit](#1-define-the-problem-statement-and-circuit)
+    - [2. Set up the proving and verification keys](#2-set-up-the-proving-and-verification-keys)
+    - [3. Generate the proof](#3-generate-the-proof)
+    - [4. Verify the proof](#4-verify-the-proof)
+- [Reference](#reference)
+
+
 # ZKP pilot project
 
 ## Logic Flow
@@ -130,3 +139,7 @@ let inputs = multipack::compute_multipacking(&hash_bits);
 assert!(groth16::verify_proof(&pvk, &proof, &inputs).is_ok());
 
 ```
+
+# Reference
+* [Awesome Zero Knowledge Proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs)
+* [Awesome Crpytography Rust](https://github.com/rust-cc/awesome-cryptography-rust)
